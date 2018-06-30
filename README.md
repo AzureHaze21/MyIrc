@@ -1,2 +1,1 @@
-# MyIrc
-Toy IRC server
+# myIRC
